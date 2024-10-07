@@ -1,0 +1,50 @@
+body{
+    background-image: url('A7C1GQ.jpg'); background-size: 100% 200%;
+}
+
+
+h1{
+    color: white;
+    font-weight: 1000;
+    font-size: 30px;
+}
+fieldset{
+    width: 350px;
+    text-align: center;
+    height: 500px;
+    background-image: url('wall.jpg'); background-size: 100% 100%;
+    margin-left: 38%;
+    margin-top:75px;
+    box-shadow: -5px 5px 10px black;
+    border: none;
+    border-radius: 30px;
+}
+#block{
+    margin-top: 50px;
+}    
+#icon{
+    background-image: url('smog.jpeg');
+    color:white;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+}
+i{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#two{
+    color: white;
+}
+#box{
+    width: 75%;
+}
+#box1{
+    width: 50%;
+}
+div{
+    line-height: 30px;
+}
